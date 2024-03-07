@@ -37,7 +37,4 @@ To run the application, make sure you have Python installed on your system.
 
 Feel free to contribute to the development of this project. You can open issues, submit pull requests, or provide suggestions for improvements.
 
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
 
